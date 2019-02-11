@@ -11,5 +11,5 @@ class Admin extends Model
     protected $primaryKey = 'id_admin';
     // testing untuk nambahin comment, sekalian latihan git add push dll
     // ini test lagi
-    // hahahahha
+    // hahahah
 }
