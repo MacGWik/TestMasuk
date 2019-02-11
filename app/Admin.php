@@ -12,4 +12,6 @@ class Admin extends Model
     // testing untuk nambahin comment, sekalian latihan git add push dll
     // ini test lagi
     // ini masuk di cabang loh
+    // 
+    // ini gua ganti lagi ke cabang
 }
